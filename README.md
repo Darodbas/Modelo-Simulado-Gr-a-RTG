@@ -1,0 +1,2 @@
+Este repositorio forma pate de un trabajo académico de fin de máster, en el cual se diseña un modelo y un control para una grúa pórtico RTG.
+En el repositorio se encuentran todos los archivos necesarios para hacer funcionar este modelo y control. Estos son: Archivos de los modelos 3D empleados. Archivos simulink con el modelo y los controles diseñados. Y, un archivo de Codesys que contiene el código implementado en el PLC que, conectado por modbus, permite el control del modelo.
